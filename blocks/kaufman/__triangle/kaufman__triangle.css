@@ -1,0 +1,9 @@
+.kaufman__triangle {
+  height: 877px;
+  position: absolute;
+  right: -210px;
+  top: 0;
+  width: 877px;
+  object-fit: cover;
+  z-index: -1;
+}
